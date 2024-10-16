@@ -1,0 +1,26 @@
+.bat-flex {
+  display: flex;
+
+  align-items: center;
+}
+.batting-img {
+  height: 40px;
+  padding-right: 8px;
+}
+.main-heading {
+  color: #ffffff;
+
+  font-family: 'Bree Serif';
+}
+.ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,32 @@
+.logo-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.team-logo-Img {
+  height: 70px;
+  width: 60px;
+}
+.logo-heading {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 14px;
+  padding-left: 8px;
+}
+.li {
+  list-style: none;
+  background: transparent;
+  backdrop-filter: blur(10px); /* Adds blur for a frosted glass effect */
+  border: 1px solid rgba(255, 255, 255, 0.2); /* Optional: light border */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: soft shadow for depth */
+  border-radius: 10px;
+  height: 80px;
+  width: 190px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  padding: 14px;
+}
