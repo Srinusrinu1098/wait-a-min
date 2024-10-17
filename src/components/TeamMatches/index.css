@@ -1,1 +1,27 @@
-/* Write your CSS here */
+.KXP {
+  background-image: linear-gradient(to top, #1e293b, #d91c1f);
+  height: 100vh;
+  width: 100vh;
+  padding: 26px;
+}
+.team-image {
+  height: 200px;
+  width: 550px;
+  border-radius: 10px;
+}
+.main-para {
+  color: #ffffff;
+  font-family: 'Bree serif';
+  text-align: start;
+  font-size: 14px;
+}
+.display {
+  display: block;
+}
+.banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
