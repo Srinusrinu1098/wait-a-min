@@ -18,6 +18,7 @@ class Home extends Component {
       name: eachData.name,
       teamImageUrl: eachData.team_image_url,
     }))
+    console.log(formattedData)
     this.setState({teamLists: formattedData})
   }
 
