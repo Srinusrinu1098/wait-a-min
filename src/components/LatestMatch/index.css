@@ -1,1 +1,41 @@
-/* Write your CSS here */
+.li-back-ground {
+  background-color: #1e293b;
+  height: 250px;
+  width: 550px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px;
+}
+.latest-heading {
+  color: #ffffff;
+  font-family: 'Bree serif';
+  font-size: 14px;
+  text-align: end;
+}
+.latest-img {
+  height: 80px;
+  width: 100px;
+}
+.latest-heading1 {
+  color: #ffffff;
+  font-family: 'Bree serif';
+  font-size: 8px;
+  text-align: end;
+}
+.latest-heading2 {
+  color: #ffffff;
+  font-family: 'Bree serif';
+  font-size: 8px;
+}
+.latest-heading3 {
+  color: #ffffff;
+  font-family: 'Bree serif';
+  font-size: 24px;
+}
+.latest-heading4 {
+  color: #ffffff;
+  font-family: 'Bree serif';
+  font-size: 18px;
+}
