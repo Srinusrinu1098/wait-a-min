@@ -1,8 +1,9 @@
 .KXP {
   background-image: linear-gradient(to top, #1e293b, #d91c1f);
-
+  height: 100vh;
   width: 100vh;
   padding: 26px;
+  overflow: scroll;
 }
 .team-image {
   height: 200px;
@@ -27,43 +28,54 @@
 }
 .RCB {
   background-image: linear-gradient(to top, #1e293b, #a4261d);
-
+  height: 100vh;
   width: 100vh;
   padding: 26px;
+  overflow: scroll;
 }
 .KKR {
   background-image: linear-gradient(to top, #1e293b, #5755a7);
-
+  height: 100vh;
   width: 100vh;
   padding: 26px;
+  overflow: scroll;
 }
 .CSK {
   background-image: linear-gradient(to top, #1e293b, #f7db00);
-
+  height: 100vh;
   width: 100vh;
   padding: 26px;
+  overflow: scroll;
 }
 .RR {
   background-image: linear-gradient(to top, #1e293b, #da237b);
-
+  height: 100vh;
   width: 100vh;
   padding: 26px;
+  overflow: scroll;
 }
 .MI {
   background-image: linear-gradient(to top, #1e293b, #13418b);
-
+  height: 100vh;
   width: 100vh;
   padding: 26px;
+  overflow: scroll;
 }
 .SH {
   background-image: linear-gradient(to top, #1e293b, #f26d22);
-
+  height: 100vh;
   width: 100vh;
   padding: 26px;
+  overflow: scroll;
 }
 .DC {
   background-image: linear-gradient(to top, #1e293b, #4f5db0);
-  height: 100%;
+  height: 100vh;
   width: 100vh;
   padding: 26px;
+  overflow: scroll;
+}
+.team-ul {
+  display: flex;
+  flex-wrap: wrap;
 }

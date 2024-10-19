@@ -1,1 +1,37 @@
-/* Write your CSS here */
+.bg {
+  background-color: #0f172a;
+  height: 300px;
+  width: 200px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+  margin-left: 14px;
+}
+.imgg {
+  height: 80px;
+}
+.latest {
+  font-size: 18px;
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Bree serif';
+}
+.latest1 {
+  font-size: 14px;
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Bree serif';
+}
+.Won {
+  color: #18ed66;
+  font-size: 24px;
+}
+.Lost {
+  color: #e31a1a;
+  font-size: 24px;
+}
